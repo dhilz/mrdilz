@@ -29,7 +29,7 @@
 | `norelay`     | Non-relay operations 🚫              |
 | `norelay2`    | Non-relay operations 2 🚫            |
 | `permit_maker`| Bikin permit 📝                      |
-|---------------|--------------------------------------|
+
 
 > 💡 Tip: Semuanya bisa dipanggil langsung dari terminal. Tinggal ketik, tekan enter, dan tadaa! ✨
 
