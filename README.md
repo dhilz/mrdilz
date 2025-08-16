@@ -2,7 +2,7 @@
 
 > Selamat datang, Sobat Terminal!
 > Semua command MrDilz siap dipanggil. Tinggal ketik di terminal, tekan Enter, dan tadaa! ✨
-> Tidak perlu ribet, **.deb sudah siap pakai**! 😎
+> Tidak perlu ribet, **Executor sudah siap pakai**! 😎
 
 ---
 
