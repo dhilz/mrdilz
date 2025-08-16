@@ -48,5 +48,3 @@ chmod +x *.deb
 # Install
 sudo dpkg -i *.deb
 
-# Jika ada dependency error
-sudo apt-get install -f
