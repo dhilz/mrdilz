@@ -48,3 +48,6 @@ chmod +x *.deb
 # Install
 sudo dpkg -i *.deb
 
+# setup
+mrdilz_setup
+
