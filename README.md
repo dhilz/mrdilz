@@ -60,8 +60,9 @@ mrdilz_setup
 sudo dpkg -r mrdilz
 
 # Hapus file konfigurasi (opsional)
-rm -f ~/.mrdilz_config
+rm -f /opt/MrDilz
 ```
 
 > ⚠️ Catatan: Gunakan Software Ini Secara Bijak Dan Penuh Pertangung Jawaban.
+
 > ⚠️ Catatan: Untuk Akses Whitelist Rlayer Bisa Dm Di Tele @dilz232.
