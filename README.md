@@ -11,6 +11,7 @@
 | Command        | Deskripsi Singkat                           |
 | -------------- | ------------------------------------------- |
 | `mrdilz_setup` | ⚙️ Konfigurasi API & Wallet                 |
+| `mrdilz_chains`| ⚙️ Konfigurasi Chains Dan Rpc               |
 | `cek_inter`    | 🔍 cek walet inetraksi                      |
 | `relay`        | 🔌 Jalankan Permit dengan Relayer           |
 | `relaynft`     | 🖼️ Jalankan relay untuk NFT                |
