@@ -61,7 +61,7 @@ sudo mrdilz_setup
 sudo dpkg -r mrdilz
 
 # Hapus file konfigurasi (opsional)
-sudo rm -f /opt/MrDilz
+sudo rm -rf /opt/MrDilz
 ```
 
 > ⚠️ Catatan: Gunakan Software Ini Secara Bijak Dan Penuh Pertangung Jawaban.
